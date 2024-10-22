@@ -6,7 +6,6 @@ The collaboration between YOLOv8 and Gemini pro enables swift and accurate ident
 <h3>Instructions</h3>
 <ol>
   <li>Clone this repo</li>
-    &nbsp&nbsp&nbsp&nbsp git clone "https://github.com/NishanthSamson/Blind-Assist-YOLO-LLM"
   <li>Open blind_assist.ipynb python notebook file</li>
   <li>Include the pre-trained YOLO models in the project directory</li>
   <li>Add Gemini API key</li>
